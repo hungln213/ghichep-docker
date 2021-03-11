@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  5stone_legacy_api:
+    image: 5stone_legacy_api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 9000:9000

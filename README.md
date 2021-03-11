@@ -411,7 +411,7 @@ RUN echo "Hello world!"
 
 #### Chia sẻ một số Dockerfile  <a name="5.1"></a>
 
-- KMS Server - https://gist.github.com/hoangdh/ed45d2c350a28ed3814e4f08d5fffe71
+- KMS Server - https://gist.github.com/hungln213/ed45d2c350a28ed3814e4f08d5fffe71
 - NGINX RTMP - https://raw.githubusercontent.com/hoangdh/ghichep-StreamingVideo/master/Dockerfile
 
 #### Làm thế nào để tối ưu Docker Image  <a name="5.2"></a>
